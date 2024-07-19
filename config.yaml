@@ -1,0 +1,6 @@
+detection:
+  frame_skip: 100
+  confidence_threshold: 0.5
+output:
+  log_file: /var/log/openthreatdetection.log
+  notification_email: admin@school.edu
